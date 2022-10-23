@@ -46,3 +46,7 @@ figure > div {
 .four {
     background-color: #005f73;
 }
+.row{
+  display: flex;
+  flex flex-flow: row wrap;
+}
